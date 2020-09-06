@@ -1,0 +1,3 @@
+def kaixo():
+    print("kaixo")
+    

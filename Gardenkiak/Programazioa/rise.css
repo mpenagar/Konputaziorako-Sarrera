@@ -1,0 +1,34 @@
+/** 
+    https://damianavila.github.io/RISE/customize.html
+
+    Adding custom CSS
+
+    RISE looks for two css files to apply CSS changes on top of the slideshow view.
+    First, it attemps to load rise.css and this will be applied to all notebooks in
+    the current directory.
+
+    Second, it attemps to load <my_notebook_name>.css and this will be only applied
+    to my_notebook_name.ipynb notebook file. Both files needs to be placed alongside
+    with the notebook if interest, in the same directory.
+
+    You can see some examples using this customization with RISE/examples/showflow.ipynb.
+**/
+
+/** center images **/
+.reveal section img {
+    margin-left:auto;
+    margin-right:auto;
+}
+
+/**
+   https://css-tricks.com/forums/topic/horizontal-centering-of-an-absolute-element/
+**/
+#rise-footer { 
+    left: 0;
+    right: 0;
+    margin: auto;
+}
+
+.rendered_html table {
+    font-size: 60%;
+}
