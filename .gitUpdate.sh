@@ -4,7 +4,7 @@
 # Si se actualiza el PAT (Personal Access Token), hay que volver a clonar el repositorio
 # para tener acceso de escritura: 
 #
-# git clone https://<PAT>@github.com/mpenagar/Programazioaren-Oinarriak.git
+# git clone https://<PAT>@github.com/mpenagar/Konputaziorako-Sarrera.git
 
 if [[ `whoami` == "mpenagar" ]] ; then
     cd $(dirname $0)
