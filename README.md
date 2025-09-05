@@ -1,8 +1,8 @@
 # Konputaziorako-Sarrera Matematikako Gradua
 
-* Edukia ikusteko: [![nbviewer]][nbviewer-Aurkibidea]
-* Edukia ikusteko (gardenki moduan): [![nbviewer]][nbviewer-Aurkibidea-slide]
-* Modu interaktiboa: [![colab]][colab-Aurkibidea]
+[//]: # * Edukia ikusteko: [![nbviewer]][nbviewer-Aurkibidea]
+[//]: # * Edukia ikusteko (gardenki moduan): [![nbviewer]][nbviewer-Aurkibidea-slide]
+* Gardenkiak Colab-en ikusteko: [![colab]][colab-Aurkibidea]
 
 [nbviewer]: <https://github.com/jupyter/design/blob/main/logos/Badges/nbviewer_badge.svg>
 [colab]: <https://colab.research.google.com/assets/colab-badge.svg>
